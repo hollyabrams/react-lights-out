@@ -1,0 +1,27 @@
+.Cell {
+    height: 80px;
+    width: 80px;
+    background-color: darkgrey;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: #FFF;
+}
+
+.Cell-lit {
+    background-color: yellow;
+    color: #3B3B3B;
+}
+
+.lightbulb {
+    font-size: 1.5rem;
+    color: #FFF;
+}
+
+.Cell-lit .lightbulb {
+    text-shadow: 0 0 10px #FFF, 0 0 20px #FFCC00;
+}
