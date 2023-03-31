@@ -1,0 +1,271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Board correctly 1`] = `
+<table
+  class="Board"
+>
+  <tbody>
+    <tr>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
