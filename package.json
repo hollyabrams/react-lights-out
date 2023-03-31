@@ -1,5 +1,6 @@
 {
   "name": "react-lights-out",
+  "homepage": "https://hollyabrams.github.io/react-lights-out/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

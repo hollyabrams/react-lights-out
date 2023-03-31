@@ -8,17 +8,6 @@ exports[`renders Board correctly 1`] = `
     <tr>
       <td>
         <td
-          class="Cell Cell-lit"
-        >
-          <span
-            class="lightbulb"
-          >
-            💡
-          </span>
-        </td>
-      </td>
-      <td>
-        <td
           class="Cell "
         >
           <span
@@ -42,50 +31,6 @@ exports[`renders Board correctly 1`] = `
           <span
             class="lightbulb"
           />
-        </td>
-      </td>
-      <td>
-        <td
-          class="Cell Cell-lit"
-        >
-          <span
-            class="lightbulb"
-          >
-            💡
-          </span>
-        </td>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <td
-          class="Cell "
-        >
-          <span
-            class="lightbulb"
-          />
-        </td>
-      </td>
-      <td>
-        <td
-          class="Cell Cell-lit"
-        >
-          <span
-            class="lightbulb"
-          >
-            💡
-          </span>
-        </td>
-      </td>
-      <td>
-        <td
-          class="Cell Cell-lit"
-        >
-          <span
-            class="lightbulb"
-          >
-            💡
-          </span>
         </td>
       </td>
       <td>
@@ -112,13 +57,20 @@ exports[`renders Board correctly 1`] = `
     <tr>
       <td>
         <td
-          class="Cell Cell-lit"
+          class="Cell "
         >
           <span
             class="lightbulb"
-          >
-            💡
-          </span>
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
         </td>
       </td>
       <td>
@@ -150,17 +102,6 @@ exports[`renders Board correctly 1`] = `
           <span
             class="lightbulb"
           />
-        </td>
-      </td>
-      <td>
-        <td
-          class="Cell Cell-lit"
-        >
-          <span
-            class="lightbulb"
-          >
-            💡
-          </span>
         </td>
       </td>
     </tr>
@@ -189,6 +130,39 @@ exports[`renders Board correctly 1`] = `
       </td>
       <td>
         <td
+          class="Cell "
+        >
+          <span
+            class="lightbulb"
+          />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <td
           class="Cell Cell-lit"
         >
           <span
@@ -205,6 +179,28 @@ exports[`renders Board correctly 1`] = `
           <span
             class="lightbulb"
           />
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
+        </td>
+      </td>
+      <td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <span
+            class="lightbulb"
+          >
+            💡
+          </span>
         </td>
       </td>
       <td>
@@ -240,11 +236,13 @@ exports[`renders Board correctly 1`] = `
       </td>
       <td>
         <td
-          class="Cell "
+          class="Cell Cell-lit"
         >
           <span
             class="lightbulb"
-          />
+          >
+            💡
+          </span>
         </td>
       </td>
       <td>
